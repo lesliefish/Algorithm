@@ -1,12 +1,10 @@
 package lei.yu;
 
-import lei.yu.algorithm.book.chapter1.UsingArrayTest;
+import lei.yu.algorithm.book.chapter1.BinarySearch;
 
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
-        UsingArrayTest t = new UsingArrayTest();
-        t.test();
+        BinarySearch.test();
     }
 }
