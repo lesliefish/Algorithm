@@ -1,2 +1,11 @@
 
 *.class
+Cpp/Algorithm/.vs/Algorithm/v14/.suo
+Cpp/Algorithm/Algorithm.VC.db
+*.tlog
+Cpp/Algorithm/AlgorithmBook/AlgorithmBook/Debug/AlgorithmBook.log
+*.obj
+*.idb
+*.pdb
+*.exe
+*.ilk
