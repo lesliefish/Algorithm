@@ -10,3 +10,6 @@ Cpp/Algorithm/AlgorithmBook/AlgorithmBook/Debug/AlgorithmBook.log
 *.exe
 *.ilk
 Cpp/Algorithm/AlgorithmBook/AlgorithmBook/Debug/AlgorithmBook.Build.CppClean.log
+*.ipch
+Cpp/Algorithm/.vs/Algorithm/v15/Browse.VC.db
+Cpp/Algorithm/.vs/Algorithm/v15/.suo
