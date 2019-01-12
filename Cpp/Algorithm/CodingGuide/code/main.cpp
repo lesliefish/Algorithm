@@ -3,5 +3,7 @@
 
 int main()
 {
-    stackqueue::GetMinStack::test();
+    // stackqueue::GetMinStack::test();
+
+    stackqueue::TwoStackQueue::test();
 }

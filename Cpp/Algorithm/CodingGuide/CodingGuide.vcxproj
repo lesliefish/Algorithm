@@ -21,10 +21,12 @@
   <ItemGroup>
     <ClInclude Include="code\headers\headers.h" />
     <ClInclude Include="code\StackQueue\GetMinStack.h" />
+    <ClInclude Include="code\stackqueue\TwoStackQueue.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="code\main.cpp" />
     <ClCompile Include="code\StackQueue\GetMinStack.cpp" />
+    <ClCompile Include="code\stackqueue\TwoStackQueue.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>

@@ -30,6 +30,9 @@
     <ClInclude Include="code\StackQueue\GetMinStack.h">
       <Filter>code\source\statckqueue</Filter>
     </ClInclude>
+    <ClInclude Include="code\stackqueue\TwoStackQueue.h">
+      <Filter>code\source\statckqueue</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="code\StackQueue\GetMinStack.cpp">
@@ -37,6 +40,9 @@
     </ClCompile>
     <ClCompile Include="code\main.cpp">
       <Filter>code</Filter>
+    </ClCompile>
+    <ClCompile Include="code\stackqueue\TwoStackQueue.cpp">
+      <Filter>code\source\statckqueue</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
