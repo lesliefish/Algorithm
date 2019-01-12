@@ -1,8 +1,11 @@
-/** @file   EnableGetMinStack.h
- *  @brief  获取最小值功能的栈
- *  @note
- *  @date   2019/01/12
+/** @file    GetMinStack.h
+ *  @date    2019/01/12 23:11
+ *  @brief   获取最小值功能的栈
+ *
+ *  @author  yu
+ *  @contact ylesliefish@gmail.com
  */
+
 #pragma once
 
 #include <stack>
