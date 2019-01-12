@@ -13,3 +13,10 @@ Cpp/Algorithm/AlgorithmBook/AlgorithmBook/Debug/AlgorithmBook.Build.CppClean.log
 *.ipch
 Cpp/Algorithm/.vs/Algorithm/v15/Browse.VC.db
 Cpp/Algorithm/.vs/Algorithm/v15/.suo
+/Cpp/Algorithm/.vs/Algorithm/v15/Browse.VC.opendb
+*.db
+*.db-shm
+*.db-wal
+/Cpp/Algorithm/.vs/config/applicationhost.config
+/Cpp/Algorithm/CodingGuide/Debug/CodingGuide.log
+*.user
