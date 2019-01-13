@@ -33,10 +33,10 @@ namespace stackqueue
      ****************************************/ 
     void GetMinStack::pop()
     {
-        if (m_dataStack.empty())
-        {
-            return;
-        }
+		if (m_minStack.empty())
+		{
+			throw std::out_of_range("m_minStack.empty()");
+		}
 
         if (m_minStack.top() == m_dataStack.top())
         {
@@ -53,7 +53,10 @@ namespace stackqueue
      ****************************************/ 
     int GetMinStack::getMin()
     {
-        assert(!m_minStack.empty());
+		if (m_minStack.empty())
+		{
+			throw std::out_of_range("m_minStack.empty()");
+		}
 
         return m_minStack.top();
     }

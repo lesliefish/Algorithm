@@ -1,11 +1,12 @@
 #include "TwoStackQueue.h"
 #include <assert.h>
 #include <iostream>
+#include <stdexcept>
 
 namespace stackqueue
 {
     /****************************************!
-     * @brief  入队
+     * @brief  push element
      * @param  [in]  const int value  
      * @return void  
      ****************************************/ 
@@ -15,12 +16,15 @@ namespace stackqueue
     }
 
     /****************************************!
-     * @brief  出队
+     * @brief  pop front
      * @return void  
      ****************************************/ 
     void TwoStackQueue::pop()
     {
-        assert(!(m_popStack.empty() && m_pushStack.empty()));
+		if (m_popStack.empty() && m_pushStack.empty())
+		{
+			throw std::out_of_range("m_popStack.empty() && m_pushStack.empty()");
+		}
 
         if (m_popStack.empty())
         {
@@ -36,12 +40,15 @@ namespace stackqueue
     }
 
     /****************************************!
-     * @brief  取队头
+     * @brief  get front
      * @return int  
      ****************************************/ 
     int TwoStackQueue::front()
     {
-        assert(!(m_popStack.empty() && m_pushStack.empty()));
+        if(m_popStack.empty() && m_pushStack.empty())
+		{
+			throw std::out_of_range("m_popStack.empty() && m_pushStack.empty()");
+		}
 
         if (m_popStack.empty())
         {
