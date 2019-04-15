@@ -13,5 +13,13 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="源文件\Arrays">
+      <UniqueIdentifier>{85ec56bf-f7f6-43fb-9cf7-9b95a01aad29}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\Arrays\TwoSum.h">
+      <Filter>源文件\Arrays</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
