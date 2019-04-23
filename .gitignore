@@ -23,3 +23,4 @@ Cpp/Algorithm/.vs/Algorithm/v15/.suo
 *.log
 *.opendb
 cpp/Algorithm/Algorithms/Debug/Algorithms.pch
+/cpp/Algorithm/Algorithms/Debug/main.obj.enc

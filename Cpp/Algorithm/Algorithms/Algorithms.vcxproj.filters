@@ -27,6 +27,9 @@
     <ClInclude Include="src\Arrays\RemoveDuplicatesFromSortedArray.h">
       <Filter>src\Arrays</Filter>
     </ClInclude>
+    <ClInclude Include="src\Arrays\RemoveDuplicatesFromSortedArray2.h">
+      <Filter>src\Arrays</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\main.cpp">
