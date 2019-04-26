@@ -1,11 +1,11 @@
 #include <iostream>
 #include "stdafx.h"
-#include "Arrays/RemoveDuplicatesFromSortedArray2.h"
+#include "Arrays/SearchinRotatedSortedArray.h"
 using namespace std;
 
 int main(int argc, char* argv[])
 {
-    RemoveDuplicatesFromSortedArray2::test();
+    SearchinRotatedSortedArray::test();
 
     return 0;
 }
