@@ -24,3 +24,7 @@ Cpp/Algorithm/.vs/Algorithm/v15/.suo
 *.opendb
 cpp/Algorithm/Algorithms/Debug/Algorithms.pch
 /cpp/Algorithm/Algorithms/Debug/main.obj.enc
+*.suo
+/.vs/slnx.sqlite
+/.vs/VSWorkspaceState.json
+/.vs/ProjectSettings.json

@@ -15,11 +15,11 @@
 
 class SearchinRotatedSortedArray
 {
-public:
+
     static int search(const vector<int>& nums, int target)
     {
         int first = 0;
-        int last = nums.size() - 1;
+        int last = nums.size();
         while (first != last)
         {
             const int mid = first + (last - first) / 2;
@@ -55,15 +55,14 @@ public:
                     last = mid;
                 }
             }
-            return -1;
         }
-
+		return -1;
     }
 
 
     static void test()
     {
         vector<int> nums{ 6,7,8,9,1,2,3,4,5 };
-        auto pos = search(nums, 6);
+        auto pos = search(nums, 5);
     }
 };
