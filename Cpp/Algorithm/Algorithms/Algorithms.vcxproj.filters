@@ -33,6 +33,12 @@
     <ClInclude Include="src\Arrays\SearchinRotatedSortedArray.h">
       <Filter>src\Arrays</Filter>
     </ClInclude>
+    <ClInclude Include="src\Arrays\LongestConsecutiveSequence.h">
+      <Filter>src\Arrays</Filter>
+    </ClInclude>
+    <ClInclude Include="src\main.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\main.cpp">

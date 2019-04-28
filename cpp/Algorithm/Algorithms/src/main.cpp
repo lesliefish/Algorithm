@@ -1,11 +1,12 @@
 #include <iostream>
 #include "stdafx.h"
-#include "Arrays/SearchinRotatedSortedArray.h"
+#include "Arrays/LongestConsecutiveSequence.h"
+#include "main.h"
 using namespace std;
 
 int main(int argc, char* argv[])
 {
-    SearchinRotatedSortedArray::test();
+	LongestConsecutiveSequence::test();
 
-    return 0;
+	return 0;
 }
