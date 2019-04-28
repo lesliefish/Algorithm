@@ -15,7 +15,7 @@
 
 class SearchinRotatedSortedArray
 {
-
+public:
     static int search(const vector<int>& nums, int target)
     {
         int first = 0;
