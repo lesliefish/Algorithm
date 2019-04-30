@@ -146,6 +146,7 @@
     <ClInclude Include="src\Arrays\RemoveDuplicatesFromSortedArray.h" />
     <ClInclude Include="src\Arrays\RemoveDuplicatesFromSortedArray2.h" />
     <ClInclude Include="src\Arrays\SearchinRotatedSortedArray.h" />
+    <ClInclude Include="src\Arrays\ThreeSum.h" />
     <ClInclude Include="src\Arrays\TwoSum.h" />
     <ClInclude Include="src\main.h" />
     <ClInclude Include="src\stdafx.h" />

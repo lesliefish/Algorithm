@@ -39,6 +39,9 @@
     <ClInclude Include="src\main.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="src\Arrays\ThreeSum.h">
+      <Filter>src\Arrays</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\main.cpp">

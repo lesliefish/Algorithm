@@ -1,12 +1,12 @@
 #include <iostream>
 #include "stdafx.h"
-#include "Arrays/LongestConsecutiveSequence.h"
-#include "main.h"
+#include "Arrays/ThreeSum.h"
+
 using namespace std;
 
 int main(int argc, char* argv[])
 {
-	LongestConsecutiveSequence::test();
+	ThreeSum::test();
 
 	return 0;
 }
