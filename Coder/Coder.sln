@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "华为机试_字符串最�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "华为机试_字符串排序", "华为机试_字符串排序\华为机试_字符串排序.vcxproj", "{B2D963EF-614F-4661-9977-9FD36C2C4995}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "华为机试_找出字符串中第一个只出现一次的字符", "华为机试_找出字符串中第一个只出现一次的字符\华为机试_找出字符串中第一个只出现一次的字符.vcxproj", "{9733B4BD-F3C2-4601-880A-FEE079986733}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{B2D963EF-614F-4661-9977-9FD36C2C4995}.Release|x64.Build.0 = Release|x64
 		{B2D963EF-614F-4661-9977-9FD36C2C4995}.Release|x86.ActiveCfg = Release|Win32
 		{B2D963EF-614F-4661-9977-9FD36C2C4995}.Release|x86.Build.0 = Release|Win32
+		{9733B4BD-F3C2-4601-880A-FEE079986733}.Debug|x64.ActiveCfg = Debug|x64
+		{9733B4BD-F3C2-4601-880A-FEE079986733}.Debug|x64.Build.0 = Debug|x64
+		{9733B4BD-F3C2-4601-880A-FEE079986733}.Debug|x86.ActiveCfg = Debug|Win32
+		{9733B4BD-F3C2-4601-880A-FEE079986733}.Debug|x86.Build.0 = Debug|Win32
+		{9733B4BD-F3C2-4601-880A-FEE079986733}.Release|x64.ActiveCfg = Release|x64
+		{9733B4BD-F3C2-4601-880A-FEE079986733}.Release|x64.Build.0 = Release|x64
+		{9733B4BD-F3C2-4601-880A-FEE079986733}.Release|x86.ActiveCfg = Release|Win32
+		{9733B4BD-F3C2-4601-880A-FEE079986733}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
