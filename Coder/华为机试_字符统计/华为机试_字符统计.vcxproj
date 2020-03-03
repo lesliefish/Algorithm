@@ -19,9 +19,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{AC5A9669-6D6B-44BD-A84F-61DE50E581CB}</ProjectGuid>
+    <ProjectGuid>{80EB4E24-2DBE-4F74-B5AA-E0E1B04FE386}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>华为机试_字符逆序</RootNamespace>
+    <RootNamespace>华为机试_字符统计</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
