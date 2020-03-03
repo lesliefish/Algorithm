@@ -17,6 +17,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "华为机试_输入一行�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "华为机试_成绩排序", "华为机试_成绩排序\华为机试_成绩排序.vcxproj", "{73673A8F-162C-4A33-8538-9CB73A4A532D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "华为机试_自守数", "华为机试_自守数\华为机试_自守数.vcxproj", "{D65E7C75-9BF0-4F02-86C3-EF8C418DC98E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -81,6 +83,14 @@ Global
 		{73673A8F-162C-4A33-8538-9CB73A4A532D}.Release|x64.Build.0 = Release|x64
 		{73673A8F-162C-4A33-8538-9CB73A4A532D}.Release|x86.ActiveCfg = Release|Win32
 		{73673A8F-162C-4A33-8538-9CB73A4A532D}.Release|x86.Build.0 = Release|Win32
+		{D65E7C75-9BF0-4F02-86C3-EF8C418DC98E}.Debug|x64.ActiveCfg = Debug|x64
+		{D65E7C75-9BF0-4F02-86C3-EF8C418DC98E}.Debug|x64.Build.0 = Debug|x64
+		{D65E7C75-9BF0-4F02-86C3-EF8C418DC98E}.Debug|x86.ActiveCfg = Debug|Win32
+		{D65E7C75-9BF0-4F02-86C3-EF8C418DC98E}.Debug|x86.Build.0 = Debug|Win32
+		{D65E7C75-9BF0-4F02-86C3-EF8C418DC98E}.Release|x64.ActiveCfg = Release|x64
+		{D65E7C75-9BF0-4F02-86C3-EF8C418DC98E}.Release|x64.Build.0 = Release|x64
+		{D65E7C75-9BF0-4F02-86C3-EF8C418DC98E}.Release|x86.ActiveCfg = Release|Win32
+		{D65E7C75-9BF0-4F02-86C3-EF8C418DC98E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
