@@ -29,6 +29,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "华为机试_表示数字",
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "华为机试_在字符串中找出连续最长的数字串", "华为机试_在字符串中找出连续最长的数字串\华为机试_在字符串中找出连续最长的数字串.vcxproj", "{2F1551D3-CB48-45F4-AAF2-201D44F1F41E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "华为机试_输出单向链表中倒数第k个结点", "华为机试_输出单向链表中倒数第k个结点\华为机试_输出单向链表中倒数第k个结点.vcxproj", "{E842321A-9A78-439A-B4E8-1E7F2B45A7DB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -141,6 +143,14 @@ Global
 		{2F1551D3-CB48-45F4-AAF2-201D44F1F41E}.Release|x64.Build.0 = Release|x64
 		{2F1551D3-CB48-45F4-AAF2-201D44F1F41E}.Release|x86.ActiveCfg = Release|Win32
 		{2F1551D3-CB48-45F4-AAF2-201D44F1F41E}.Release|x86.Build.0 = Release|Win32
+		{E842321A-9A78-439A-B4E8-1E7F2B45A7DB}.Debug|x64.ActiveCfg = Debug|x64
+		{E842321A-9A78-439A-B4E8-1E7F2B45A7DB}.Debug|x64.Build.0 = Debug|x64
+		{E842321A-9A78-439A-B4E8-1E7F2B45A7DB}.Debug|x86.ActiveCfg = Debug|Win32
+		{E842321A-9A78-439A-B4E8-1E7F2B45A7DB}.Debug|x86.Build.0 = Debug|Win32
+		{E842321A-9A78-439A-B4E8-1E7F2B45A7DB}.Release|x64.ActiveCfg = Release|x64
+		{E842321A-9A78-439A-B4E8-1E7F2B45A7DB}.Release|x64.Build.0 = Release|x64
+		{E842321A-9A78-439A-B4E8-1E7F2B45A7DB}.Release|x86.ActiveCfg = Release|Win32
+		{E842321A-9A78-439A-B4E8-1E7F2B45A7DB}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
