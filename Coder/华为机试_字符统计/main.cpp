@@ -26,7 +26,7 @@ int main()
 		{
 			outMap[iter.second].emplace_back(iter.first);
 		}
-
+		 
 		for (auto riter = outMap.rbegin(); riter != outMap.rend(); ++riter)
 		{
 			for (auto it : riter->second)
